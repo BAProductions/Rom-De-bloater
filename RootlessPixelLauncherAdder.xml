@@ -6,6 +6,6 @@
   <!-- Replaced Launcher3 With Rootless pixel Luncher For Mods -->
   <!-- <remove-project name="platform/packages/apps/Trebuchet" /> -->
   <project path="packages/apps/Launcher3" name="amirzaidi/Launcher3" groups="pdk-fs" revision="n-mr1" remote="GitHubMods" />
-  <project path="device/light" name="BAProductions/android_vendor_light" revision="lightos-1.0" remote="GitHubMods" />
+  <!-- <project path="device/light" name="BAProductions/android_vendor_light" revision="lightos-1.0" remote="GitHubMods" />  -->
   <project path="vendor/light" name="BAProductions/android_vendor_light" revision="lightos-1.0" remote="GitHubMods" />
 </manifest>
