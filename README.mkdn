@@ -3,11 +3,11 @@ Rom De bloater
 This file will downloade the nessery files to build the rom you chose for your devide without stock apps these rom tipical include this means no wallpaper eather as most user pefer there use there own wallpaper.
 
 I will be replacing the stock launcher when I find a good replacement.
----------------
+
 Get Started 
 ---------------
-add this file to .repo/local_manifests
----------------
+add xml file to .repo/local_manifests from my repo or fork it along with my sdk to use with your own custom rom
+
 Then sync the repo:
 ```
 repo sync --force-sync
