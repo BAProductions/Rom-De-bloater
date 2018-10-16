@@ -1,6 +1,6 @@
 Rom De bloater
 ===========
-This file will downloade the nessery files to build the rom you chose for your devide without stock apps these rom tipical include this means no wallpaper eather as most user pefer there use there own wallpaper.
+This file will download the necessary files to build the rom you chose for your device without stock apps these rom tipical include this means no wallpaper eather as most user pefer there use there own wallpaper.
 
 I will be replacing the stock launcher when I find a good replacement.
 
@@ -11,6 +11,11 @@ add xml file to .repo/local_manifests from my repo or fork it along with my sdk 
 SDK can be forked Here 
 ---------------
 (https://github.com/BAProductions/android_vendor_light)
+
+If forking my sdk 
+make sure refrence your rom SDK name in my SDK light/config/.mk then Add the apps you to include save Push to github 
+
+Also if you want to make none copyright ringtones for my sdk that sound cool and unique I'll be glad to add them in and give you credit for them
 
 Then sync the repo:
 ```
