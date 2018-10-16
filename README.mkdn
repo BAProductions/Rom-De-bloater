@@ -10,12 +10,8 @@ add this file to .repo/local_manifests
 ```
 Then sync the repo:
 ```
-repo sync
-```
 repo sync --force-sync
 ```
 -c is needed if using --depth=1:
-```
-repo sync -c
 ```
 repo sync -c --force-sync
