@@ -1,6 +1,6 @@
 Rom De bloater
 ===========
-This file will downloade the nessery files to build your rom for your devide without stock apps include in your rom.
+This file will downloade the nessery files to build the rom you chose for your devide without stock apps these rom tipical include this means no wallpaper eather as most user pefer there use there own wallpaper.
 
 I will be replacing the stock launcher when I find a good replacement.
 ---------------
