@@ -7,7 +7,7 @@ I will be replacing the stock launcher when I find a good replacement.
 Get Started 
 ---------------
 add this file to .repo/local_manifests
-```
+---------------
 Then sync the repo:
 ```
 repo sync --force-sync
@@ -15,3 +15,4 @@ repo sync --force-sync
 -c is needed if using --depth=1:
 ```
 repo sync -c --force-sync
+```
