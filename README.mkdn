@@ -8,6 +8,10 @@ Get Started
 ---------------
 add xml file to .repo/local_manifests from my repo or fork it along with my sdk to use with your own custom rom
 
+SDK can be forked Here 
+---------------
+(https://github.com/BAProductions/android_vendor_light)
+
 Then sync the repo:
 ```
 repo sync --force-sync
